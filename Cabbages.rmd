@@ -21,9 +21,14 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
+$H_0$ no there is no difference in the Vitamin C average between c 39 and c52.
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+The response variable is how much Vitamin C  it is numerical.
+
+The explanatory variable is which cultivation method is categorical.
 
 # Results
 

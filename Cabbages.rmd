@@ -66,6 +66,7 @@ higher than the doses in the C39 Cabbages.
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
+The p-value is 0.00000003405. This is smaller value than 0.05 for this reason I reject the $H_0$ .
 
 # Discussion and Conclusion
 
